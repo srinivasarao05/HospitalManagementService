@@ -10,4 +10,4 @@ spring:
     generate-ddl: false
     
 hosp:
-  hospitalName: AIG
+  hospitalName: CITY
